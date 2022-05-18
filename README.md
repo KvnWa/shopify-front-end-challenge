@@ -2,11 +2,13 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Shopify Front End Intern Challenge Fall 2022
+https://openai-fun-app.netlify.app/)
 
 
-<img src="public/images/demo.png"/>(https://openai-fun-app.netlify.app/)
+<img src="public/images/demo.png"/>(
 
 This app uses the OpenAI GPT-3 API 
+https://openai.com/blog/gpt-3-apps/
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
