@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+html {
+  scroll-behavior: smooth;
+}
+
+*{
+  font-family: 'PT Sans', sans-serif;
+  list-style: none;
+  
+}
+
+body{
+  background-image: radial-gradient(circle at -20% 2%, rgba(216,239,85,0.2) 300px, transparent 540px),radial-gradient(circle at -2% 0%, rgba(144,222,251,0.26), transparent 340px),radial-gradient(circle at 100% 1485px, rgba(216,239,85,0.27) 100px, transparent 420px),radial-gradient(circle at 100% 1525px, rgba(144,222,251,0.25), transparent 270px),radial-gradient(circle at 5% 81%, rgba(216,239,85,0.18) 300px, transparent 890px),radial-gradient(circle at 0% 84%, rgba(144,222,251,0.35) 20px, transparent 470px);
+}
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+    .response-wrapper{
+      max-width: 16em;
+    }
+}
+
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+    textarea{
+      width: 100%;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto;
+      
+    }
+}
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+    .container h1{
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto;
+      overflow-wrap: break-word;
+      width: 10%;
+    }
+}
+
+
+
+.container{
+  padding-top: 1em;
+  display: grid;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+.container h1, h2{
+  display: grid;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrapper h3, h4{
+  margin-top: .5em;
+  justify-content: center;
+  display: grid;
+  align-items: center;
+}
+
+.form-container {
+  display: grid;
+  margin: auto;
+  justify-content: center;
+  
+}
+
+.submit-button {
+  float: right;
+  background-color: #000000;
+  color: #ffffff;
+  padding: .6em 1.8125em;
+  border-radius: 4px;
+  font-weight: 800px;
+  font-size: 1em;
+  text-align: center;
+  cursor: pointer;
+  border-style: solid;
+  border-color: transparent;
+}
+
+
+.prompt{
+  border-radius: .5em;
+}
+
+.response-container {
+  display: grid;
+
+}
+
+.response-wrapper {
+  /* display: grid; */
+  width: 50em;
+  border-radius: 4px;
+  box-shadow: rgb(210, 213, 217) 0px 4px 45px 0px;
+  text-align: center;
+  letter-spacing: normal;
+  padding: 1em;
+  margin-bottom: 1em;
+  background-color: #ffffff;
+}
+
+.card-text{
+  font-weight: bolder;
+  font-size: 18px;
+  color: #008060;
+  display: grid;
+}
+
+
+
+
