@@ -5,7 +5,7 @@
 https://openai-fun-app.netlify.app/)
 
 
-<img src="public/images/demo.png"/>(
+<img src="public/images/demo.png"/>
 
 This app uses the OpenAI GPT-3 API 
 https://openai.com/blog/gpt-3-apps/
@@ -28,7 +28,7 @@ Below is an example of how you can instruct your audience on installing and sett
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone 
    ```
 2. Install NPM packages
    ```sh
