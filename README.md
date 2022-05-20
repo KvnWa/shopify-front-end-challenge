@@ -10,6 +10,9 @@ https://openai-fun-app.netlify.app/)
 This app uses the OpenAI GPT-3 API 
 https://openai.com/blog/gpt-3-apps/
 
+### Features
+Local Storage
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
